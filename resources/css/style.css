@@ -25,3 +25,8 @@ font-weight: 300;
 font-size: 42px;
 color: white;
 }
+
+.copyright {
+  color: gray;
+  text-align: right;
+}
