@@ -1,0 +1,11 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+}
+
+.main_title {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
