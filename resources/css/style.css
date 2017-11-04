@@ -1,11 +1,27 @@
 body {
   font-family: Verdana;
   background-color: black;
+  text-align: center;
 }
 
 .main_title {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
+}
+
+.dl_link {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+.main_text {
+font-size: 21px;
+color: gray;
+}
+
+.subtitle {
+font-weight: 300;
+font-size: 42px;
+color: white;
 }
